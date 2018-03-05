@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "709250356193",
+    "firebase_url": "https://gpgmassager.firebaseio.com",
+    "project_id": "gpgmassager",
+    "storage_bucket": "gpgmassager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709250356193:android:9f63deb388deb00b",
+        "android_client_info": {
+          "package_name": "com.doan.levanha.gpgmessager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709250356193-2gshp6j8dhqiefncstnakmd88m31uo6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doan.levanha.gpgmessager",
+            "certificate_hash": "6117fdf6b091158af68780da1013d8787befb3fd"
+          }
+        },
+        {
+          "client_id": "709250356193-0ntejfn6ndgqvn21quacpdun1su9b93u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAu6U5ZOK8IDBADUlYpR7AtN3goox2tE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709250356193-0ntejfn6ndgqvn21quacpdun1su9b93u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
